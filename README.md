@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer sciences at HELMo university
 
 Check out my [portfolio](https://matthiasg.dev), I share more projects I did.
+
 Also check out my [personnal Git](https://git.matthiasg.dev/Ninluc) where I host even more projects.
 
 
